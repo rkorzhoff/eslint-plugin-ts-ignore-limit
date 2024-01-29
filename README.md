@@ -1,6 +1,8 @@
 # eslint-plugin-no-excessive-ts-ignore
+*Important* Looks like it's not about ESLint. This plugin doesn't work as expected, it only checks number of comments inside single file.
+You should find another approach to count number of comments, for example use standalone script.
 
-Limit amount of @ts-ignore / @ts-nocheck / @ts-expect-error comments in project
+Limit amount of @ts-ignore / @ts-nocheck / @ts-expect-error comments in file
 
 ## Installation
 
